@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 
 export default function Cart() {
     return (
-        <div>
+        <div className="container mt-3" style={{ minHeight: "75vh" }}>
             <h1 className="text-center">Cart</h1>
         </div>
     );
